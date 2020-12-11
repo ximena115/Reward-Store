@@ -1,0 +1,47 @@
+.menuConatiner{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgb(230, 230, 230);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0,0.3);
+}
+
+button{
+    background-color: #0ad4fa;
+    border: none;
+    color:#fff;
+    border-radius: 50px;
+    width: 130px;
+    height: 50px;
+    margin:5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0,0.3);
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #0ad4fa ;
+    border: none;
+}
+
+button:active{
+    background-color: rgb(136, 136, 136);
+}
+
+.menu{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    color: rgb(136, 136, 136);
+    text-shadow: 5px 5px 5px rgba(0, 0, 0,0.3);
+    font-weight: 500;
+}
+
+.buttonContainer{
+    display: flex;
+    margin: 10px;
+}

@@ -3,7 +3,7 @@
     height: 500px;
     background-color: #0ad4fa;
     background-image:url('../assets/header-x1.png');
-    background-size:auto 120%;
+    background-size:auto 100%;
     background-position:100% 50%;
     background-repeat:no-repeat;
     
@@ -18,4 +18,16 @@
     font-size: 5rem;
     text-shadow: 5px 5px 5px rgba(0, 0, 0,0.3);
 
+}
+
+@media (max-width: 1300px) { 
+    .title{
+        font-size: 3rem;
+        top: 350px;
+        left: 20px; 
+    }
+
+    .banner{
+        background-position:90% 50%;
+    }
 }

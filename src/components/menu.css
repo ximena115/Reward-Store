@@ -1,10 +1,11 @@
 .menuConatiner{
-    box-sizing: border-box;
+   /* box-sizing: border-box;*/
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     border-bottom: 2px solid rgb(230, 230, 230);
     box-shadow: 5px 5px 5px rgba(0, 0, 0,0.3);
+    
 }
 
 button{
@@ -44,4 +45,16 @@ button:active{
 .buttonContainer{
     display: flex;
     margin: 10px;
+}
+
+@media (max-width: 1300px) { 
+    .menu{
+        flex-direction: column;
+        }
+
+    button{
+        width: 90px;
+        height: 40px;
+        font-weight: 500;
+    }    
 }

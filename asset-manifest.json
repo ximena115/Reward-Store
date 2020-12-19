@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Reward-Store/static/css/main.d9d86e49.chunk.css",
+    "main.css": "/Reward-Store/static/css/main.eaa358e1.chunk.css",
     "main.js": "/Reward-Store/static/js/main.9da0f4da.chunk.js",
     "main.js.map": "/Reward-Store/static/js/main.9da0f4da.chunk.js.map",
     "runtime-main.js": "/Reward-Store/static/js/runtime-main.d2da364f.js",
@@ -10,17 +10,17 @@
     "static/js/3.8d5a15d0.chunk.js": "/Reward-Store/static/js/3.8d5a15d0.chunk.js",
     "static/js/3.8d5a15d0.chunk.js.map": "/Reward-Store/static/js/3.8d5a15d0.chunk.js.map",
     "index.html": "/Reward-Store/index.html",
-    "static/css/main.d9d86e49.chunk.css.map": "/Reward-Store/static/css/main.d9d86e49.chunk.css.map",
+    "static/css/main.eaa358e1.chunk.css.map": "/Reward-Store/static/css/main.eaa358e1.chunk.css.map",
     "static/js/2.bd148e9b.chunk.js.LICENSE.txt": "/Reward-Store/static/js/2.bd148e9b.chunk.js.LICENSE.txt",
     "static/media/GoPro-x2.542f36d2.png": "/Reward-Store/static/media/GoPro-x2.542f36d2.png",
     "static/media/aerolab-logo.0a8fb170.svg": "/Reward-Store/static/media/aerolab-logo.0a8fb170.svg",
     "static/media/coin.b8bc711d.svg": "/Reward-Store/static/media/coin.b8bc711d.svg",
-    "static/media/banner.css": "/Reward-Store/static/media/header-x1.b6f067c6.png"
+    "static/media/banner.css": "/Reward-Store/static/media/header-x1.f92af0ca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d2da364f.js",
     "static/js/2.bd148e9b.chunk.js",
-    "static/css/main.d9d86e49.chunk.css",
+    "static/css/main.eaa358e1.chunk.css",
     "static/js/main.9da0f4da.chunk.js"
   ]
 }
